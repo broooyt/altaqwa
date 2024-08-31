@@ -1,1 +1,1 @@
-web: python www/predictor/app.py
+web: python ../www/predictor/app.py
